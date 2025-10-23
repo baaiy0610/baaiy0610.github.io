@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a third-year Ph.D. student at Mathematical Department of LMU Munich (Ludwig-Maximilians-Universität München) and the Huawei Research Center Munich, 2012 Laboratory, under the supervision of Prof. Dr. Gitta Kutyniok. My research focuses on Embodied AI, Video Diffusion Models, and Multi-Modal Diffusion Models.
+I am a third-year Ph.D. student at Mathematical Department of LMU Munich (Ludwig-Maximilians-Universität München) and the Huawei Research Center Munich, 2012 Laboratory (base Germany), under the supervision of Prof. Dr. Gitta Kutyniok. My research focuses on Embodied AI, Video Diffusion Models, and Multi-Modal Diffusion Models.
 
-Before beginning my Ph.D., I earned a Master’s degree in Scientific Computing from the Technical University of Berlin (TUB) and ETH Zurich, where I worked in the Scalable Parallel Computing Laboratory (SPCL) and graduated with high distinction. I received my Bachelor’s degree in Safety Engineering from the University of Science and Technology Beijing (USTB).
+Before beginning Ph.D., I earned my Master’s degree in Scientific Computing from the Technical University of Berlin (TUB) and ETH Zurich, where I worked in the Scalable Parallel Computing Laboratory (SPCL) and graduated with high distinction. I received my Bachelor’s degree in Safety Engineering from the University of Science and Technology Beijing (USTB).
 
 ## Research Interests
 
