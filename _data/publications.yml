@@ -10,7 +10,7 @@ main:
     notes: Oral Presentation
     
   - title: "RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation"
-    authors: Liudi Yang*, <strong>Yang Bai*</strong>, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Soumajit Majumder, Ziyuan Liu, Gitta Kutyniok, Abhinav Valada(*Corresponding authors)
+    authors: Liudi Yang*, <strong>Yang Bai*</strong>, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Soumajit Majumder, Ziyuan Liu, Gitta Kutyniok, Abhinav Valada(*Equal contribution.)
     conference_short: IROS 2025
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2506.22007
