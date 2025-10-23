@@ -1,12 +1,12 @@
 main:
 
-  - title: RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping
+  - title: "RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping"
     authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Dong Chen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok, 
     conference_short: IROS 2025
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2506.08632?
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:E97pu2BGRXUJ:scholar.google.com/&output=citation&scisdr=CgLZZ4pdEOWwgUr2jwY:AAZF9b8AAAAAaPnwlwZ7t_BRvaiU0qCjuzdmnUo&scisig=AAZF9b8AAAAAaPnwl-nj8DmpFk2whQHefRNv1XE&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/RoboSwap.png
     notes: Oral Presentation
     
   - title: "RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation"
@@ -15,6 +15,7 @@ main:
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2506.22007
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:CMJpGBoXW1QJ:scholar.google.com/&output=citation&scisdr=CgLZZ4pdEOWwgUr2bgY:AAZF9b8AAAAAaPnwdgZQ1jOzMwI6sLW9b4D-eJ4&scisig=AAZF9b8AAAAAaPnwdsQliVXs6ZsAg_BrRxViO68&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1
+    image: ./assets/img/RoboEnvision.png
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    
