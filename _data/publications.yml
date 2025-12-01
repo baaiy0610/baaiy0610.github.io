@@ -4,12 +4,7 @@ main:
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
     conference: arXiv preprint arXiv:2511.01770
     pdf: https://arxiv.org/pdf/2511.01770
-    bibtex: @article{yang2025lightweight,
-              title={Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping},
-              author={Yang, Liudi and Bai, Yang and Wang, Yuhao and Alsarraj, Ibrahim and Kutyniok, Gitta and Wang, Zhanchi and Wu, Ke},
-              journal={arXiv preprint arXiv:2511.01770},
-              year={2025}
-            }
+    bibtex: @article{yang2025lightweight, title={Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping}, author={Yang, Liudi and Bai, Yang and Wang, Yuhao and Alsarraj, Ibrahim and Kutyniok, Gitta and Wang, Zhanchi and Wu, Ke}, journal={arXiv preprint arXiv:2511.01770}, year={2025}}
     image: ./assets/Lightweight_Learning.jpg
     
   - title: "RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping"
