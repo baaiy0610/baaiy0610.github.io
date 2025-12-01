@@ -12,7 +12,7 @@ main:
         year={2025}
       }
   
-    image: "./assets/img/Lightweight_Learning.jpg"
+    image: ./assets/Lightweight.jpg
     
   - title: "RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping"
     authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Dong Chen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok, 
