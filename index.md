@@ -16,7 +16,7 @@ Before beginning Ph.D., I earned my Master’s degree in Scientific Computing fr
 ## News
 - **[Oct. 2025]** ✈ I’ll be attending IROS 2025 (Hangzhou, China) for an oral presentation — feel free to reach out if you’d like to connect and chat!
 - **[Juli. 2025]** 🎉 Two of our paper on Emboddied AI video generation are accepted to IROS 2025 main conference!
-- **[Feb. 2024]** 🎖 I go for Huawei cloud Pangu Video Generation Model develop special combat in person!
+- **[Feb. 2024]** 🎖 I go for Huawei Pangu Video Generation Model develop in person!
 - **[Oct. 2023]** 📍 I start my PhD journey!
 
 {% include_relative _includes/publications.md %}
