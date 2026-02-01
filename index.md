@@ -10,10 +10,12 @@ Before beginning Ph.D., I earned my Master’s degree in Scientific Computing fr
 
 ## Research Interests
 
-- **Computer Vision:** Controllable Video Generation
+- **Computer Vision:** Controllable Video Generation, Multi-Modal Diffusion Model
 - **Emboddied AI:** policy learning, vision-language-action model (VLA)
 
 ## News
+- **[Jan. 2026]** 🎉 Two of our paper on Emboddied AI are accepted to ICRA 2026 main conference!
+- **[Jan. 2026]** 🎉 One of my paper on Physics Enhanced (Multi-Modal) video generation is accepted to ICASSP 2026 main conference!
 - **[Oct. 2025]** ✈ I’ll be attending IROS 2025 (Hangzhou, China) for an oral presentation — feel free to reach out if you’d like to connect and chat!
 - **[Juli. 2025]** 🎉 Two of our paper on Emboddied AI video generation are accepted to IROS 2025 main conference!
 - **[Feb. 2024]** 🎖 I go for Huawei Pangu Video Generation Model develop in person!
