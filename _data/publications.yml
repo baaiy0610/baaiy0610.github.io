@@ -13,7 +13,7 @@ main:
         year={2025}
       }
   
-    image: ./assets/DRAW2ACT.jpg
+    image: ./assets/DRAW2ACT.JPG
 
 
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
