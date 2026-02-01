@@ -1,5 +1,21 @@
 main:
 
+  - title: "DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos"
+    authors: <strong>Yang Bai*</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok
+    conference_short: ICRA 2026
+    conference: The IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2512.14217
+    bibtex: |
+      @article{bai2025draw2act,
+        title={DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos},
+        author={Bai, Yang and Yang, Liudi and Eskandar, George and Shen, Fengyi and Altillawi, Mohammad and Liu, Ziyuan and Kutyniok, Gitta},
+        journal={arXiv preprint arXiv:2512.14217},
+        year={2025}
+      }
+  
+    image: ./assets/DRAW2ACT.jpg
+
+
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
     conference: arXiv preprint arXiv:2511.01770
