@@ -1,7 +1,7 @@
 main:
 
   - title: "DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos"
-    authors: <strong>Yang Bai*</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok
+    authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok
     conference_short: ICRA 2026
     conference: The IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2512.14217
