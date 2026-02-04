@@ -5,14 +5,7 @@ main:
     conference_short: ICRA 2026
     conference: The IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2512.14217
-    bibtex: |
-      @article{bai2025draw2act,
-        title={DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos},
-        author={Bai, Yang and Yang, Liudi and Eskandar, George and Shen, Fengyi and Altillawi, Mohammad and Liu, Ziyuan and Kutyniok, Gitta},
-        journal={arXiv preprint arXiv:2512.14217},
-        year={2025}
-      }
-  
+    bibtex: https://dblp.org/rec/journals/corr/abs-2512-14217.html?view=bibtex
     image: ./assets/DRAW2ACT.JPG
 
 
@@ -34,16 +27,9 @@ main:
     authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Dong Chen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok, 
     conference_short: IROS 2025
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2506.08632?
     page: https://baaiy0610.github.io/roboswap/
-    bibtex: |
-      @article{yang2025roboenvision,
-        title={RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation},
-        author={Yang, Liudi and Bai, Yang and Eskandar, George and Shen, Fengyi and Altillawi, Mohammad and Chen, Dong and Majumder, Soumajit and Liu, Ziyuan and Kutyniok, Gitta and Valada, Abhinav},
-        journal={arXiv preprint arXiv:2506.22007},
-        year={2025}
-      }
-
+    pdf: https://arxiv.org/pdf/2506.08632?
+    bibtex: https://dblp.org/rec/conf/iros/BaiYESCALK25.html?view=bibtex
     image: ./assets/RoboSwap.jpg
     notes: Oral Presentation
     
@@ -51,15 +37,9 @@ main:
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Soumajit Majumder, Ziyuan Liu, Gitta Kutyniok, Abhinav Valada(*Equal contribution.)
     conference_short: IROS 2025
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
+    page: https://crepuscularlight.github.io/roboenvision/
     pdf: https://arxiv.org/pdf/2506.22007
-    bibtex: |
-      @article{bai2025roboswap,
-        title={RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping},
-        author={Bai, Yang and Yang, Liudi and Eskandar, George and Shen, Fengyi and Chen, Dong and Altillawi, Mohammad and Liu, Ziyuan and Kutyniok, Gitta},
-        journal={arXiv preprint arXiv:2506.08632},
-        year={2025}
-      }
-
+    bibtex: https://dblp.org/rec/conf/iros/YangBESACMLKV25.html?view=bibtex
     image: ./assets/RoboEnvision.jpg
     notes: Oral Presentation
     
