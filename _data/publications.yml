@@ -35,6 +35,7 @@ main:
     conference_short: IROS 2025
     conference: The IEEE/RSJ International Conference on Intelligent Robots and Systems<strong>(IROS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2506.08632?
+    page: https://baaiy0610.github.io/roboswap/
     bibtex: |
       @article{yang2025roboenvision,
         title={RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation},
