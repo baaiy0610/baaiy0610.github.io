@@ -1,4 +1,11 @@
 main:
+  - title: "CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion"
+    authors: Liudi Yang, <strong>Yang Bai</strong>, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Ziyuan Liu, Abhinav Valada
+    conference_short: ICRA 2026
+    conference: The IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2512.16023
+    bibtex: https://dblp.org/rec/journals/corr/abs-2512-16023.html?view=bibtex
+    image: ./assets/CoVAR.JPG
 
   - title: "DRAW2ACT: Turning Depth-Encoded Trajectories into Robotic Demonstration Videos"
     authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok
