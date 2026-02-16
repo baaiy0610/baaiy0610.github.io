@@ -14,7 +14,7 @@ main:
     pdf: https://arxiv.org/pdf/2512.14217
     bibtex: https://dblp.org/rec/journals/corr/abs-2512-14217.html?view=bibtex
     image: ./assets/DRAW2ACT.JPG
-    page: https://baaiy0610.github.io/drawtoact/
+    page: https://baaiy0610.github.io/draw2act/
 
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
