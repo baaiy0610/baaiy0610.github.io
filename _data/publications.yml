@@ -18,7 +18,7 @@ main:
 
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
-    conference: arXiv preprint arXiv:2511.01770
+    conference: IEEE Robotics and Automation Letters (RA-L)
     pdf: https://arxiv.org/pdf/2511.01770
     bibtex: https://dblp.org/rec/journals/corr/abs-2511-01770.html?view=bibtex
     image: ./assets/Lightweight.jpg
