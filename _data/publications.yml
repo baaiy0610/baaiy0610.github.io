@@ -16,6 +16,13 @@ main:
     image: ./assets/DRAW2ACT.JPG
     page: https://baaiy0610.github.io/draw2act/
 
+  - title: "Physics-Informed Video Diffusion For Shallow Water Equations "
+    authors: <strong>Yang Bai</strong>, George Eskandar, Ziyuan Liu, Gitta Kutyniok
+    conference_short: ICASSP 2026
+    conference: The IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2603.15627
+    image: ./assets/Physics.PNG
+
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
     conference: IEEE Robotics and Automation Letters (RA-L)
