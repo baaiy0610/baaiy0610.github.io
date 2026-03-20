@@ -1,4 +1,12 @@
 main:
+  - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
+    authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
+    conference_short: RA-L
+    conference: IEEE Robotics and Automation Letters (RA-L)
+    pdf: https://arxiv.org/pdf/2511.01770
+    bibtex: https://dblp.org/rec/journals/corr/abs-2511-01770.html?view=bibtex
+    image: ./assets/Lightweight.jpg
+    
   - title: "CoVAR: Co-generation of Video and Action for Robotic Manipulation via Multi-Modal Diffusion"
     authors: Liudi Yang, <strong>Yang Bai</strong>, George Eskandar, Fengyi Shen, Mohammad Altillawi, Dong Chen, Ziyuan Liu, Abhinav Valada
     conference_short: ICRA 2026
@@ -22,13 +30,6 @@ main:
     conference: The IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2603.15627
     image: ./assets/Physics.PNG
-
-  - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
-    authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
-    conference: IEEE Robotics and Automation Letters (RA-L)
-    pdf: https://arxiv.org/pdf/2511.01770
-    bibtex: https://dblp.org/rec/journals/corr/abs-2511-01770.html?view=bibtex
-    image: ./assets/Lightweight.jpg
     
   - title: "RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping"
     authors: <strong>Yang Bai</strong>, Liudi Yang, George Eskandar, Fengyi Shen, Dong Chen, Mohammad Altillawi, Ziyuan Liu, Gitta Kutyniok, 
