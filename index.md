@@ -14,6 +14,8 @@ Before beginning Ph.D., I earned my Master’s degree in Scientific Computing fr
 - **Emboddied AI:** Robotic Policy learning, Vision-Language-Action model (VLA)
 
 ## News
+- **[Oct. 2025]** ✈ I’ll be attending ICRA 2026 (Wien, Austria) for presentation — feel free to reach out if you’d like to connect and chat!
+- **[May. 2025]** ✈ I’ll be attending ICASSP 2026 (Barcelona, Spain) for presentation — feel free to reach out if you’d like to connect and chat!
 - **[Mar. 2026]** 🎉 One of our paper on Soft Robotics Policy using Rectified Flow is accepted to RA-L!
 - **[Jan. 2026]** 🎉 Two of our paper on Emboddied AI are accepted to ICRA 2026 main conference!
 - **[Jan. 2026]** 🎉 One of my paper on Physics Signal Enhanced (Multi-Modal) Video generation is accepted to ICASSP 2026 main conference!
