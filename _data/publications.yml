@@ -1,7 +1,8 @@
 main:
   - title: "WISER-RL: A Wake–Sleep Learning Mechanism for Robot Reinforcement Learning from One Demonstration"
     authors: Kwunhang Wong*, <strong>Yang Bai*</strong>, Qingyang Bao, Liudi Yang, Chenzhi Liu, Jiehong Lin, Wei Huang, Lin Li, Ziyuan Liu, Yujie Yang,  Gitta Kutyniok, Zhongrui Wang, Xiaojuan Qi(*Equal contribution.)
-    conference: arXiv preprint
+    conference_short: arXiv preprint
+    conference: under review
     pdf: https://arxiv.org/pdf/2611.34043
     image: ./assets/WISER.png
 
