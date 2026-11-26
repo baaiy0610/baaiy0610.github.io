@@ -1,4 +1,10 @@
 main:
+  - title: "WISER-RL: A Wake–Sleep Learning Mechanism for Robot Reinforcement Learning from One Demonstration"
+    authors: Kwunhang Wong*, <strong>Yang Bai*</strong>, Qingyang Bao, Liudi Yang, Chenzhi Liu, Jiehong Lin, Wei Huang, Lin Li, Ziyuan Liu, Yujie Yang,  Gitta Kutyniok, Zhongrui Wang, Xiaojuan Qi(*Equal contribution.)
+    conference: arXiv preprint
+    pdf: https://arxiv.org/pdf/2611.34043
+    image: ./assets/WISER.png
+
   - title: "Lightweight Learning from Actuation-Space Demonstrations via Flow Matching for Whole-Body Soft Robotic Grasping"
     authors: Liudi Yang*, <strong>Yang Bai*</strong>, Yuhao Wang*, Ibrahim Alsarraj, Gitta Kutyniok, Zhanchi Wang, Ke Wu(*Equal contribution.)
     conference_short: RA-L
